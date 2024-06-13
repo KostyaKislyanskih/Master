@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: Playtest 07-Edit-Speed
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Increase the Max Speed
   m_Paragraphs:
     m_Items:
     - m_Type: 7
@@ -42,7 +40,6 @@ MonoBehaviour:
           m_MaskSizeModifier: 0
           m_UnmaskedControls:
           - m_SelectorMode: 2
-            m_SelectorMatchType: 0
             m_GUIContent:
               m_Text: 
               m_Image: {fileID: 0}
@@ -84,14 +81,14 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Increase the Max Speed
       Text:
         m_Untranslated: "The <b>Max Speed</b> property controls how fast the player
           moves forward.\n\nGo deeper:\n\n\u2022 When you select a GameObject in
-          the Hierarchy, you\u2019ll see its <b>components</b> in the <b>Inspector.</b>\n\n\u2022
-          Components contain <b>properties</b> that give a GameObject specific functionalities.\n\n\u2022
-          The <b>Player Controller</b> component contains the properties that make
-          the player move in response to player input."
+          the Hierarchy, you\u2019ll see its <b>components</b> in the <b>Inspector</b>.
+          \n\n\u2022 Components contain <b>properties</b> that give a GameObject
+          specific functionalities.\n\n\u2022 The <b>Player Controller</b> properties
+          are what makes the player move in response to player input."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -124,7 +121,6 @@ MonoBehaviour:
           m_MaskSizeModifier: 0
           m_UnmaskedControls:
           - m_SelectorMode: 2
-            m_SelectorMatchType: 0
             m_GUIContent:
               m_Text: 
               m_Image: {fileID: 0}
@@ -157,12 +153,11 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'In the Player Controller component, locate the <b>Max Speed</b>
-          property, and increase it to <b>10</b> using the number field.
+        m_Untranslated: 'Increase the <b>Max Speed</b> property to <b>10</b> using
+          the number field.
 
 
-          Select
-          <b>Next</b> to continue.'
+          Select <b>Next</b> to continue.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -253,7 +248,6 @@ MonoBehaviour:
   Invalidated:
     m_PersistentCalls:
       m_Calls: []
-  isTesting: 0
   m_PropertyPath: maxSpeed
   m_TargetValueMode: 1
   m_TargetValue: 
