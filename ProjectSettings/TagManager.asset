@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - 
-  - FirstPersonWeapon
-  - PhysicalAmmo
-  - 
-  - 
-  - 
-  - 
+  - PlacementLayer
+  - PlacementGhosts
+  - Towers
+  - GroundEnemies
+  - FriendlyProjectiles
+  - EnemyProjectiles
+  - FlyingEnemies
+  - GroundEnemyTargettingProjectiles
   - 
   - 
   - 
@@ -38,12 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 788040023
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Foreground
-    uniqueID: 3922283465
     locked: 0
