@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 638c57ef6aaf5694d93ec4084fb45947
+  productGUID: 845ea4b2763f4964d97501f613eaadd0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Animation 2.0
+  productName: Ui Hard Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -673,14 +673,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Animation 2.0
+  metroPackageName: Ui Hard Project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Animation 2.0
+  metroApplicationDescription: Ui Hard Project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: c73d95fb-8285-4117-89ad-5cf5c784f588
+  cloudProjectId: 2afb0919-092d-4a66-9e10-6e99e3164158
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Animation 2.0
+  projectName: Ui Hard Project
   organizationId: kostya_kislyanskih
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
